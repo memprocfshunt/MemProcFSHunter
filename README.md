@@ -55,7 +55,7 @@ Mount the image with MemProcFS
 
 ![image](https://user-images.githubusercontent.com/81682232/117924948-d890cf80-b2f6-11eb-8bb7-a2a80339b97f.png)
 
-Download the lates release of MemProfFsHunter and start the script
+Download the lates release of MemProcFSHunter and start the script
 - https://github.com/memprocfshunt/Memprocfshunter/releases
 
 ![image](https://user-images.githubusercontent.com/81682232/117924333-dbd78b80-b2f5-11eb-9efd-10d2c4c0d438.png)
